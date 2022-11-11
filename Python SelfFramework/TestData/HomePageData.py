@@ -3,7 +3,7 @@ import openpyxl
 
 class HomePageData:
 
-        test_HomePage_data = [{"firstname":"Rahul Shetty","emailid":"rahulshetty@gmail.com","password":"Rahul@123","gender":"Male"},{"firstname":"Rahul Anshika","emailid":"rahulanshika@gmail.com","password":"Rahul@456","gender":"Female"}]
+        test_HomePage_data = [{"firstname":"Rahul Shetty","emailid":"rahulshetty123@gmail.com","password":"Rahul@123","gender":"Male"},{"firstname":"Rahul Anshika","emailid":"rahulanshika@gmail.com","password":"Rahul@456","gender":"Female"}]
 
         def getTestData(self,test_case_name):
                 Dict = {}
